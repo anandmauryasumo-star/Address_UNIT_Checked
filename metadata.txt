@@ -1,0 +1,16 @@
+[general]
+name=Address UNIT Checked
+description=Analyze Unit Point and Point layers with an optional polygon filter and selectable fields.
+version=5.0.3
+qgisMinimumVersion=3.16
+author=Anand Maurya Sumo
+email=Mauryaanand2015@gmail.com
+about=Address UNIT Checked analyzes Unit Point and Point layers with optional polygon filtering, selectable fields, selected-polygon mode, CRS handling, counts, unique units, comparison results, and a Sumo watermark.
+category=Vector
+experimental=False
+deprecated=False
+tags=address,unit,point,polygon,vector,analysis
+homepage=https://github.com/anandmaurya-sumo/Address_UNIT_Checked#readme
+repository=https://github.com/anandmaurya-sumo/Address_UNIT_Checked
+tracker=https://github.com/anandmaurya-sumo/Address_UNIT_Checked/issues
+changelog=5.0.3 - Clean QGIS publishing package with required metadata and no generated cache files.
